@@ -1,0 +1,68 @@
+<div class="details" id="intangible">
+    <h2>📄 IAS 38 vs VAS 04 — Tài sản vô hình</h2>
+    <p><strong>IFRS:</strong></p>
+    <ul>
+      <li><em>Ghi nhận ban đầu:</em> Khi có thể xác định được, mang lại lợi ích kinh tế và đo lường đáng tin cậy.</li>
+      <li><em>Đo lường sau ghi nhận:</em>
+     <ul>
+          <li><strong>Cost model:</strong> Nguyên giá trừ khấu hao và tổn thất.</li>
+          <li><strong>Revaluation model:</strong> Chỉ áp dụng nếu có thị trường hoạt động để xác định giá trị hợp lý.</li>
+        </ul>
+      </ul>
+      
+      <div class="details" id="ias38-full">
+    <h3>🎯 Mục tiêu</h3>
+    <p>Mô tả phương pháp kế toán cho tài sản vô hình, bao gồm ghi nhận, đo lường ban đầu và sau ghi nhận, khấu hao và suy giảm giá trị.</p>
+
+    <h3>📌 Phạm vi điều chỉnh</h3>
+    <p>IAS 38 không áp dụng cho các tài sản sau:</p>
+    <ul>
+      <li>Tài sản tài chính (IAS 32)</li>
+      <li>Tài sản phát sinh từ thăm dò khoáng sản (IFRS 6)</li>
+      <li>Thuế thu nhập hoãn lại (IAS 12)</li>
+      <li>Thuê tài sản vô hình (IFRS 16)</li>
+      <li>Phúc lợi người lao động (IAS 19)</li>
+      <li>Lợi thế thương mại từ hợp nhất kinh doanh (IFRS 3)</li>
+      <li>Hợp đồng bảo hiểm (IFRS 17)</li>
+      <li>Tài sản nắm giữ để bán (IFRS 5)</li>
+      <li>Doanh thu từ hợp đồng với khách hàng (IFRS 15)</li>
+    </ul>
+
+    <h3>📚 Khái niệm & thuật ngữ</h3>
+    <ul>
+      <li><strong>Tài sản vô hình:</strong> Tài sản phi tiền tệ có thể xác định được, không có hình thái vật chất.</li>
+      <li><strong>Khấu hao (Amortisation):</strong> Phân bổ có hệ thống giá trị phải khấu hao trong suốt thời gian sử dụng hữu ích.</li>
+      <li><strong>Nguyên giá (Cost):</strong> Số tiền hoặc giá trị hợp lý đã trả để có được tài sản tại thời điểm ghi nhận ban đầu.</li>
+      <li><strong>Giá trị phải khấu hao:</strong> Nguyên giá trừ giá trị thanh lý có thể thu hồi.</li>
+      <li><strong>Giá trị còn lại:</strong> Giá trị ghi sổ sau khi trừ khấu hao lũy kế và lỗ suy giảm giá trị.</li>
+      <li><strong>Giá trị đặc thù đơn vị:</strong> Giá trị hiện tại của dòng tiền mà đơn vị dự kiến thu được từ việc sử dụng và thanh lý tài sản.</li>
+    </ul>
+
+    <h3>🧾 Ghi nhận tài sản vô hình</h3>
+    <ul>
+      <li><strong>Được ghi nhận:</strong> Mua phần mềm kế toán từ nhà cung cấp, chi phí chuyên môn, thử nghiệm, phúc lợi nhân viên liên quan.</li>
+      <li><strong>Không được ghi nhận:</strong> Chi phí giới thiệu sản phẩm mới, chi phí mở rộng thị trường, chi phí quản lý.</li>
+      <li><strong>Giao dịch hợp nhất:</strong> Mua lại công ty → xác định giá trị bằng sáng chế, danh sách khách hàng → ghi nhận là tài sản vô hình.</li>
+      <li><strong>Trao đổi tài sản:</strong> Đổi phần mềm cũ lấy phần mềm mới → ghi nhận theo giá trị hợp lý nếu có thể xác định.</li>
+      <li><strong>Thương hiệu nội bộ:</strong> Không được ghi nhận nếu tự xây dựng. Chỉ ghi nhận nếu mua riêng biệt hoặc qua hợp nhất doanh nghiệp.</li>
+    </ul>
+
+     <h4>Tài sản không phải là BĐSĐT</h4>
+     </ul>
+     <br>
+         <li>BĐs để bán trong kỳ KD thông thường</li>
+         <li>Bđs chủ sở hữu sử dụng</li>
+         <li>BĐS cho thuê TC</li>
+       </div>  
+</ul>
+  <h3>📐 Đo lường sau ghi nhận ban đầu</h3>
+    <ul>
+      <li><strong>Mô hình giá gốc (Cost Model):</strong>  
+        <br>Giá trị ghi sổ = Nguyên giá – Giá trị thanh lý – Lỗ suy giảm giá trị
+      </li>
+      <li><strong>Mô hình đánh giá lại (Revaluation Model):</strong>  
+        <br>Giá trị ghi sổ = Giá trị đánh giá lại – Giá trị thanh lý – Lỗ suy giảm giá trị  
+        <br><em>Chỉ áp dụng nếu có thị trường hoạt động để xác định giá trị hợp lý.</em>
+      </li>
+    </ul>
+</div>
