@@ -1,0 +1,474 @@
+<div class="quadrant green">Assets 🟩</div>
+<div class="quadrant blue">Expenses 🟩</div>
+<div class="quadrant orange">Revenue 🟧</div>
+<div class="quadrant orange">Liabilities 🟧</div>
+<div class="quadrant purple">Equity 🟧</div>
+<div class="center-box">Profit </div>
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Color Accounting Training Book</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>📘 Sổ Tay Kế Toán – Uyên Ngọc</h1>
+    <nav>
+      <ul>
+        <li><a href="#tt200-map">TT200 Mapping</a></li>
+        <li><a href="#transactions">Transactions</a></li>
+        <li><a href="#mindmap">Thuyết Minh Báo Cáo</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="basis-board">
+    <h2>🎨 BaSIS Board Overview</h2>
+<div class="quadrant green">
+  <strong>Assets 🟩</strong><br />
+  <small>💡 Use of resources that provide future economic benefit</small>
+</div>
+
+<div class="quadrant green">
+  <strong>Expenses  🟩</strong><br />
+  <small>💸 Sacrifices made to earn revenue</small>
+</div>
+
+<div class="quadrant orange">
+  <strong>Revenue 🟧</strong><br />
+  <small>📈 Inflows from delivering goods or services</small>
+</div>
+
+<div class="quadrant orange">
+  <strong>Liabilities 🟧</strong><br />
+  <small>📉 Obligations to outsiders, future sacrifices</small>
+</div>
+
+<div class="quadrant orange">
+  <strong>Equity 🟧</strong><br />
+  <small>🧾 Owner’s claim after liabilities are settled</small>
+</div>
+
+<div class="center-box">
+  <strong>Profit 💰</strong><br />
+  <small>🔍 Difference between revenue and expenses</small>
+</div>
+
+<div class="quadrant green">
+  <strong>Debit 🟩 </strong><br />
+  <small>🔍 Assets and Expense and Revenue</small>
+</div>
+
+<div class="quadrant orange">
+  <strong>Credit 🟧 </strong><br />
+  <small>🔍 Assets and Expense and Revenue</small>
+</div>
+
+<div class="quadrant orange">
+  <strong>Debit 🟧</strong><br />
+  <small>🔍 Liabilities and Equity</small>
+</div>
+
+<div class="quadrant green">
+  <strong>Credit 🟩</strong><br />
+  <small>Liabilities and Equity</small>
+</div>
+
+</section>
+<h2>TM BCTC</h2>
+
+<section id="tt200-map">
+    <h2>📂 TT200 Account Mapping</h2>
+    </details>
+    <details>
+   <ul> 
+     <summary>🟩 MS100 – Tài sản ngắn hạn</summary>
+     <p><strong>Công thức:</strong> 100 = 110 + 120 + 130 + 140 + 150</p>
+    <p><strong>Mô tả:</strong> Bao gồm tiền và tương đương tiền, đầu tư ngắn hạn, phải thu, hàng tồn kho và tài sản ngắn hạn khác.</p>
+    <details>
+    <summary>MS110 – Tiền và tương đương tiền</summary>
+    <p><strong>Công thức:</strong> 110 = 111 + 112</p>
+    <p><strong>Mô tả:</strong> Tiền mặt, tiền gửi ngân hàng, và các khoản tương đương tiền có kỳ hạn ≤ 3 tháng.</p>
+<ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201111">TK 111 – Tiền. mặt</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20112">TK 112 – Tiền gửi. ngân hàng</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20113">TK 113 – Tiền đang chuyển</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20128">TK 128 – Đầu tư nắm giữ đến ngày đáo hạn (≤ 3 tháng)</a></li>
+</ul>
+</details>
+    <details>
+    <summary>MS120 – Đầu tư tài chính ngắn hạn</summary>
+    <p><strong>Công thức:</strong> 120 = 121 + 122 + 123</p>
+    <p><strong>Mô tả:</strong> Các khoản đầu tư vì mục đích kinh doanh, bao gồm chứng khoán, dự phòng giảm giá, và đầu tư đến đáo hạn không quá 12 tháng.</p>
+    <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20121">TK 121 – Kinh doanh chứng khoán</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202291">TK 2291 – Dự phòng giảm giá chứng khoán</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201281">TK 1281 – Khoản đầu tư đến đáo hạn</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201282">TK 1282 – Khoản đầu tư đến đáo hạn</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201288">TK 1288 – Khoản đầu tư ngắn hạn khác</a></li>
+</ul>
+</details>
+    <details>
+    <summary> 🟩 MS130 : khoản phải thu ngắn hạn</summary>
+    <p><strong>Công thức:</strong> = 131 + 132 + 133 + 134 + 135 + 136 + 137 + 139</p> 
+     <p><strong>Mô tả:</strong> tổng giá trị các khoản thu không quá 12 tháng, phải thu của khách, trả trước người bán, phải thu nội bộ, phải thu theo tiến độ HĐ, phải thu cho vay và phải thu ngắn hạn khác</p> 
+     <p><strong>Mô tả:</strong>133 = 1362 + 1363 + 1368</p>
+     <p><strong>Mô tả:</strong>136 = 1385 + 1388 + 334 + 338 + 141 + 244</p>
+     <ul>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20131">TK 131 – Phải thu khách hàng (ngắn và dài hạn)</a></li>
+        <li><a href="obsidian://open? vault=acounting%20notes&file=other%20notes%2FTK%20331">TK 331 – Phải thu khách hàng (ngắn và dài hạn)</a>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201362">TK 1362 dư nợ KPT nội bộ</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201363">TK 1363 – dư nợ khoản phải thu khách hàng</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201368">TK 1368 – dư nợ khoản Phải thu khách hàng</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201337">TK 337 – Thanh toán theo tiến độ hợp đồng</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201337">TK 1283 - cho vay thu hồi không quá 12 tháng (đầu tư nắm giữ đến ĐH)</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201385">TK 1385 - Thu về chi hộ</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201388">TK 1388</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201334">TK 334</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201338">TK 338</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20141">TK 141</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20244">TK 244</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201381">TK 1381-TS thiếu chờ xử lí</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202293">TK 2293-TS thiếu chờ xử lí</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201381">TK 1381-TS thiếu chờ xử lí</a></li>
+</ul>
+</details>
+    <details>
+    <summary> 🟩 MS140 : phản ánh hàng tồn kho, giá trị và suy giảm</summary> 
+    <p><strong>Công thức:</strong> 140 = 141 + 149</p>
+    <p><strong>Mô tả:</strong> 149 là khoản dự phòng các loại hàng tồn kho, giảm giá dự phòng đã được trích lập, bao gồm 151 - Hàng mua trên đường, 152 - NVL, 153 - Công cụ, dụng cụ, 154 - CPSXKD dở dang, 155 - Thành phẩm, 156 - hàng hoá, 157 - hàng gửi đi bán, 158 - Hàng hoá kho bảo thuế</p> 
+    </ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20151">TK 151 – Hàng mua trên đường</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20152">TK 152 - NVL</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20153">TK 153 - Công cụ, dụng cụ</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20154">TK 154-CPSX KD dở dang</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20155">TK 155- Thành phẩm</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20156">TK 156-Hàng hoá</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20157">TK 157-Hàng gửi đi bán</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20158">TK 158-Hàng kho bảo thuế</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202294">TK2294- TS chờ xử lí</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202294">TK141- DP HTK, số âm</a </li>
+</ul>
+</details> 
+    <details>
+	<summary>🟩 Mã số 150 - Tài sản ngắn hạn khác</summary> 
+	<p><strong>Mô tả:</strong>Tài sản ngắn hạn khác, có thể thu hồi không quá 12 tháng, bao gồm chi phí trả trước NH, thuế GTGT được KT, thuế phải thu và giao dịch mua bán trái phiếu và ts ngắn hạn khác</p>
+	<p><strong>Công thức:</strong>MS 150 = 151 + 152 + 153 + 154 + 155</p>
+	<details> 
+    </ul>
+	<li><a href="obsidian://openvault=acounting%20notes&file=other%20notes%2FTK%202242">TK242- Dư nợ CPTTNH</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20133">TK133- </a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201331">TK1331- </a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201332">TK1332- Dư nợ CPTTNH</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203331">TK3331</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203335">TK3334</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%208212">TK8212</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20333">TK333</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20154">TK154</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20171">TK171</a></li>
+	 <li><a href="obsidian://open?
+	vault=acounting%20notes&file=other%20notes%2FTK%202288">TK2288- Đt khác</a></li>
+ </ul>
+ </details>
+     <details>
+     <summary>🟩Mã số 200 - Tài sản ngắn hạn khác</summary> 
+	 <p><strong>Mô tả:</strong>Tài sản ngắn hạn khác, có thể thu hồi không quá 12 tháng, bao gồm chi phí trả trước NH, thuế GTGT được KT, thuế phải thu và giao dịch mua bán trái phiếu và ts ngắn hạn khác</p>
+	  <p><strong>Mô tả:</strong>PT dài hạn của khách hàng - 211, 212 : TK 131, 333</p>
+	  <p><strong>Mô tả:</strong>PT dài hạn của khách hàng - 213: số dư nợ 1361, vốn kinh doanh đã giao cho ĐV cấp dưới, chỉ tiêu "Vốn góp", bù trừ TK phải trả nội bộ về vốn KD (MS 411) (MS 333)</p> 
+	  <p><strong>Mô tả:</strong>PT nội bộ DH, khoản thu giữa ĐV cấp trên và đơn vị trực thuộc, k có tư cách pháp nhân hạch toán phụ thuộc, đơn vị trực thuộc k có tư cách pháp nhân, QH thanh toán, ngoài QH giao vốn, kỳ hạn trên 12 tháng - 214 : dư nợ 1362, 1363, 1368</p> 
+    <p><strong>Mô tả:</strong>PT phải thu về DH - 215: dư nợ 1283</p>
+    <p><strong>Mô tả:</strong>PT phải thu về DH khác- 216: 1385, 1388, 334, 338, 141, 244</p>
+	<p><strong>Công thức:</strong>MS 200 = 210 + 220 + 230 + 240 + 250 + 260</p>
+	<p><strong>Công thức:</strong>MS 210 = 211 + 212 + 213 + 214 + 215 + 216 + 219</p>
+	<details>
+	</ul>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20131">TK242- khoản phải thu dài hạn có kỳ hạn thu hồi trên 12 tháng, căn cứ sổ dư nợ</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20331">TK331-trả trước người bán dài hạn, dư nợ chi tiết 331</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201361">TK1361, sổ kế toán chi tiết dư nợ 136</a></li>
+	<li><a href="obsidian://open? vault=acounting%20notes&file=other%20notes%2FTK%201362">TK1362, sổ kế toán chi tiết dư nợ 136</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201363">TK1363, sổ kế toán chi tiết dư nợ 136</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201368">TK1368, sổ kế toán chi tiết dư nợ 136</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201283">TK1283, số dư nợ chi tiết tk 1283 cho vay</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201385">TK1385- khoản thu trên 12 tháng, số dư nợ chi tiết</a></li>
+	<li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202293">TK2293-dự phòng  phải thu khó đòi, dư có chi tiết</a></li>
+ </ul>
+ </details>
+      <details>
+	  <summary>🟩Mã số 220 - Tài sản cố định</summary> 
+	  <p><strong>Công thức<strong>MS 220 = 221 + 224 + 227</p>
+	  <p><strong>Mô tả <strong>MS 221 (TSCĐ hữu hình) và hao mòn = 222 + 223</p>
+	  <li><a href="obsidian://open? vault=acounting%20notes&file=other%20notes%2FTK%20211">TK211- dư nợ tài sản cố định hữu hình</a></li>
+	   <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202141">TK2141- hao mòn tài sản cố định hữu hình</a></li>
+ </ul>
+ </details> 
+       <details>  
+	   <summary>MS 224 - Tài sản thuê tài chính</summary> 
+	   <p><strong>Mô tả<strong>MS 224 = 225 + 226</p> 
+	   <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20212">TK212- dư nợ tài sản cố định thuê TC</a></li>
+	   <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202142">TK2142- hao mòn tài sản thuê TC</a></li>
+ </ul>
+ </details>  
+	  <p><strong>Mô tả<strong> MS 227 - TSCĐ Vô hình= 228 + 229</p> 
+	  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20213">TK213 - nguyên giá TSCĐ vô hình </a></li>
+	  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202143">TK2143 - suy giảm TSTC </a></li>
+</ul>
+</details>	  
+	  <p><strong>Mô tả<strong>MS 230 - BĐS đầu tư = 231 + 232</p>
+	  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202217">TK217 - nguyên giá BĐS </a></li>
+	  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2022147">TK2147 - suy giảm BĐS </a></li>
+ </ul>
+ </details>  
+	  <p><strong>Mô tả: <strong>MS 240-TS dở dang DH = 241 + 242
+	  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202154">dư nợ TK154 - CP SXKD dở dang</a></li>
+	 <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2022294">dư có TK2294 - DP giảm giá HTK</a></li>
+	 <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20241">TK241</a></li>
+    </ul>
+    </details>   
+    <details>
+	 <p><strong>Mô tả: <strong> MS 250 - ĐTTC dài hạn = 251 + 252 + 253 + 254 + 255
+	 </ul>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20221">TK221 - Đầu tư công ty con</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20221">TK222 - Đầu tư cty LD, LK</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202281">TK2281 - Đầu tư góp vốn ĐV khác</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%202292">TK2292 - DP tổn thất</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201281">TK1281</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201282">TK1282</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201288">TK1288</a></li>
+ </ul>
+ </details>  
+ <details>	
+    <p><strong>Công thức<strong>TSDH khác : MS 260 =261+262+268</p> 
+	<p><strong>Mô tả <strong>Phản ánh số tiền trả trước trên 12 tháng kể từ thời điểm trả trước, bao gồm lợi thế TM, lợi thế KD chưa phân bổ tại thời điểm báo cáo</p>
+	 </ul>
+	 </details>
+	 <details> 
+	 <p><strong>Mô tả<strong>Nợ ngắn hạn - MS 310: phản ánh tổng giá trị khoản nợ, thời hạn thanh toán không qúa 12 tháng, bao gồm : vay và nợ thuê TC ngắn hạn, phải trả người bán, thuế nộp nhà nước, phải trả LĐ, chi phí phải trả, phải trả nội bộ, DT chưa thực hiện, dự phòng phải trả</p> 
+	 </ul>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20242">TK 242 – CP Trả trước dài hạn trên 12 tháng, lợi thế thương mại, lợi thế KD chưa phân bổ tại thời điểm báo cáo</a><li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20243">TK 243 – số dư nợ TS thuế thu nhập hoãn lại</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201534">TK 1534 – TB phụ tùng thay thế</a></li>
+	    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20131">TK 2294 – DP giảm giá HTK</a></li>
+	     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20131">TK 2288 – TSDH khác</a></li>
+</ul>
+</details>  
+    <details>
+    <p><strong>mô tả<strong>Tổng giá trị khoản nợ phải trả có thời hạn không quá 12 tháng: nợ ngắn hạn, nợ dài hạn</p>
+    <p><strong>Công thức<strong>Tổng TS (270) = Mã số 100 và Mã số 200</p> 
+</ul>
+</details>  
+    <details>
+    <summary> MS 310 – Nợ ngắn hạn</summary>
+    <strong>Công thức:</strong> 310 = 311 + 312 + 313 + 314 + 315 + 316 + 317 + 318 + 319 + 320 + 321 + 322 + 323 + 324</p>
+    <summary> MS 311 – Sổ chi tiết phát sinh có khoản PT ngừoi bán Ngắn hạn</summary>
+     <strong>mô tả:</strong> : số tiền trả cho người bạn, không quá 12 tháng, số dư có</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20311">TK 331 </a></li>
+    <summary> MS 312 – người mua trả tiền trước Ngắn hạn</summary>
+    <strong>mô tả:</strong> : số tiền mua ứng trước để mua sản phẩm, không quá 12 tháng, số dư có</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20131">Sổ chi tiết phát sinh có TK 131 – Phải Thu khách hàng</a></li> 
+       <summary> MS 313 - Thuế</summary> 
+       <strong>mô tả:</strong> : số tiền mua ứng trước để mua sản phẩm, không quá 12 tháng, số dư có</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20334">TK 333 - Thuế, các khoản phải nộp</a></li>
+	<summary> MS 314 – PT người LĐ</summary>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20334">TK 334 – PT người lao động</a></li>
+       <summary> MS 315 – chi phí phải trả Ngắn hạn</summary> 
+    <p><strong>mô tả : phản ánh giá trị khoản nợ chưa có hoá đơn, chi phí đã phát sinh nhưng chưa có đủ hồ sơ, tài liệu, và cần thanh toán trong 12 tháng, trích trước tiền lương, nghỉ phép, lãi vay phải trả của tk 335</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203362">Sổ chi tiết số dư có TK 335 - CP phải trả </a></li>
+      <summary> MS 316– phải trả nội bộ Ngắn hạn</summary>
+      <p><strong>mô tả : chi phí khoản nội bộ phải trả kỳ hạn không quá 12 tháng : đơn vị cấp trên, đơn vị trực thuộc không có tư cách pháp nhân phụ thuộc, đơn vị hạch toán phụ thuộc </p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203362">Sổ chi tiết số dư có TK 3362</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203363">Sổ chi tiết số dư có TK 3363</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203368">TK 3368</a></li>
+      <summary> MS 318 - Dthu chưa thực hiện ngắn hạn</summary>
+      <p><strong>mô tả : phản ánh dthu chưa thực hiện, nghĩa vụ DN trong 12 tháng tiếp theo trong CK sản xuất, tại thời điểm báo cáo, số dư có Tk 3387</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20337">Sổ chi tiết số dư có TK 3387: Thanh toán theo tiến độ HĐXD</a></li>
+       <summary> MS 319– phải trả ngắn hạn khác</summary> 
+       <p><strong>mô tả : chi tiêu phải trả khác, kì hạn dứoi 12 tháng : Giá trị tài sản thừa, chưa rõ nguyên nhân, phải nộp cho CQBHXH, KPCĐ, ký cược, ký quỹ ngắn hạn, số dư có TK 338, 138, 344
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20338">Sổ chi tiết số dư có TK 338</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20338">Sổ chi tiết số dư có TK 138</a></li>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20338">Sổ chi tiết số dư có TK 344</a></li>
+    <summary> MS 320– phải trả ngắn hạn khác</summary>   
+    <p><strong>mô tả : phản ánh tổng giá trị vay, nợ của Ngân hàng, tổ chức, cty TC, ĐT khác kỳ hạn không quá 12 tháng, số dư có Tk 341, 34311</p>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20341">Sổ chi tiết số dư có TK 341</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2034311">Sổ chi tiết số dư có TK 34311</a></li>
+    <summary> MS 320– phải trả ngắn hạn khác</summary> 
+    <p><strong>mô tả : phản ánh khoản phải trả nội bộ có kỳ hạn k quá 12 tháng, số dư có của 3362, 3368, 3363</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20344"> TK 344</a></li>
+	   <summary> MS 321– dự phòng phải trả ngắn hạn</summary>
+	   <p><strong>mô tả : dự phòng PT ngắn hạn không quá 12 tháng, dự phòng BH sản phẩm, hàng hoá, CTXD, tái cơ cấu, chi phí trích trước, được ước tính, chưa chắc về thời gian phải trả, giá trị phải trả, DN chưa nhận từ NCC</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20352">TK 352 : Dự phòng phải trả</a></li>
+      <summary> MS 322– Quỹ khen thưởng</summary>
+      <p><strong>mô tả: số dư có của TK 353</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20353">TK 353 : Quỹ bình ổn</a></li> 
+       <summary> MS 323– Quỹ bình ổn giá</summary>
+       <p><strong>mô tả : giá trị quỹ bình ổn giá hiện có tại thời điểm báo cáo, số dư có TK 357 : Quỹ bình ổn giá</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20352">TK 357 : Quỹ bình ổn</a></li> 
+      <summary> MS 324 - GD mua bán Trái phiếu</summary>
+      <p><strong>mô tả : giá trị trái phiếu của bên bán, chưa kết thúc thời hạn HĐ mua bán, tại thời điểm báo cáo, số dư có TK 171</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20171">GD mua bán trái phiếu</a></li>
+</il>
+</details>
+<summary> MS 330– Nợ dài hạn</summary>
+      <p><strong> mô tả : chi phí khoản nội bộ phải trả kỳ hạn không quá 12 tháng : đơn vị cấp trên, đơn vị trực thuộc không có tư cách pháp nhân phụ thuộc, đơn vị hạch toán phụ thuộc </p>
+      <p><strong> Công thức : <strong>MS 330 = 331 + 332 + 333 + 334 + 335 + 336 + 337 + 338 + 339 + 340 + 341 + 342 + 343</p>
+      <summary>MS 331 - Phải trả dài hạn</summary>
+      <p><strong>Mô tả<strong> khoản giá trị doanh nghiệp đi vay, nợ ngân hàng, cty tài chính, đối tượng khác trên 12 tháng, tại thời điểm báo cáo, chỉ tiêu có TK 331</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20331">TK 331</a></li>
+  </ul>
+  </details>
+    <summary> MS 332 - Phải trả dài hạn</summary>
+    <p><strong> Mô tả<strong> khoản giá trị người mua ứng truóc, sổ chi tiết chỉ tiêu có TK 131</p>
+        <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20131">Tk 131</a></li>
+   </ul>
+  </details>
+<summary>MS 333-Ngừoi mua trả tiền dài hạn</summary><p><strong>Mô tả: <strong> GT khoản nợ còn phải trả do nhận hàng, chưa có hoá đơn, chưa có hồ sơ nhưng chắc chắn phát sinh, tính trước vào chi phí sản xuất, kinh doanh thông thường, phải thanh toán khi HĐ vay đáo hạn, số dư có chi tiết TK 335</p>
+<ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20335">TK 335</a></li>
+  </ul>
+  </details>
+   <summary>MS 334 - Phải trả nội bộ vốn KD</summary>
+   <p><strong>Mô tả: <strong>DN phân cấp và quy định đơn vị hạch toán phụ thuộc, ghi nhận khoản vốn DN cấp vào chỉ tiêu "vốn góp" MS 411, ghi ở bảng cân đối KT tổng hợp toàn Dn, bù trừ với chỉ tiêu Vốn KD ở ĐV trực thuộc, trên BCĐKT, số dư có Tk 3361 </p>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20411">TK 411</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203361">TK 3361</a></li>
+  </ul>
+  </details>  
+   <summary>MS 335 - Phải trả nội bộ DH</summary>
+ <p><strong>Mô tả: <strong> Khoản phải trả nội bộ trên 12 tháng, tại thời điểm báo cáo, đơn vị cấp trên - cấp dưới, giữa đv không có tư cách pháp nhân hạch toán phụ thuộc, đơn vị hạch toán phụ thuộc, số dư có chi tiết TK 3362, 3363, 3368, bù trừ khoản phải thu nội bộ dài hạn</p>
+  <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203362">TK 3362</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203363">TK 3363</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203368">TK 3368</a></li>
+ </ul>
+ </details>  
+    <summary> MS 336 – DT chưa thực hiện dài hạn</summary>
+    <p><strong>mô tả : <strong>khoản dthu chưa thực hiện được, sau 12 tháng, tại thời điểm báo cáo, số dư có TK 3387</p>
+<ul>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203387">TK 3387</a></li>
+ </ul>
+ </details>  
+    <summary> MS 337 – Phải trả dài hạn khác</summary>
+    <p><strong>mô tả : <strong>khoản phải trả, kỳ hạn trên 12 tháng, bao gồm bao gồm khoản nhận ký cược, ký quỹ dài hạn, chênh lệch giá bán chậm, trả góp chậm cam kết với giá bán trả ngay dài hạn</p>
+  </ul> 
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20338">TK 338</a></li> 
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20344">TK 344</a></li> 
+ </ul>  
+    <details>
+    <summary> MS 338 – Vay, nợ thuê TC dài hạn khác</summary>
+    <p><strong>mô tả : <strong>khoản vay, nợ của ngân hàng, tổ chức, cty tài chính, kỳ hạn trên 12 tháng, số dư có TK 34311 (-) số dư nợ TK 34312 + dư có Tk 34313</p>
+</ul>
+</details>
+    <details>
+    <summary> MS 339 - trái phiếu chuyển đổi</summary>
+    <p><strong>mô tả : <strong>nợ gốc, trái phiếu do DN phát hành, tại thời điểm báo cáo, dư nợ có chi tiết TK 3432</summary>
+    <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%203432">TK 3432 - TP chuyển đổi</a></li> 
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20344">TK 344</a></li>
+ </ul>
+ </details>   
+    <details>
+    <summary> MS 340 - CP ưu đãi</summary>
+    <p><strong>mô tả : <strong>CP phát hành theo mệnh giá ưu đãi, bắt buộc phải mua lại tại 1 thời điểm trong tương lai, số dư có 41112-CP ưu đãi</summary>
+    <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%204112">TK 4112- Cp ưu đãi</a></li> 
+ </ul>
+ </details>   
+    <details>
+    <summary> MS 341 - Thuế TN hoãn lại PT</summary>
+    <p><strong>mô tả : <strong>Thuế Thu nhập doanh nghiệp hoãn lại phải trả, số dư có Tk 347. CL tạm thời chịu thuế và tạm thời khấu trừ, liên quan cùng 1 ĐT nộp thuế, thuế TN hoãn lại bù trừ với TS thuế hoãn lại</summary>
+    <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20347">TK 347- Cp ưu đãi</a></li> 
+  </ul>
+  </details>
+    <summary> MS 342 - DP PT DH</summary>
+    <p><strong>mô tả : <strong>DP phải trả sau 12 tháng, bao gồm dự phòng Bảo hành sản phẩm, hàng hoá, CTXD, sửa chữa TSCĐ, ước tính chưa chắc về thời gian, giá trị, DN chưa nhận được, căn cứ vào chi tiết có TK 352 "Dự phòng phải trả"</summary>
+    <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20352">TK 352- Cp ưu đãi</a></li>
+  </ul>
+  </details>
+    <summary> MS 343 - Quỹ PT KH CN</summary>
+    <p><strong>mô tả : <strong>căn cứ vào chi tiết có TK 356 "Quỹ phát triển KH"</summary>
+    <ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20343">TK 343- Quỹ PT KH CN</a></li>
+ </ul>
+ </details>
+     <details>
+<ul> 
+     <summary> 🟧MS 410 – Tài sản ngắn hạn</summary>
+     <p><strong>Công thức:</strong> 410 = 411 + 412 + 413 + 414 + 415 + 416 + 417 + 418 + 419 + 420 + 421 + 422</p>
+    <p><strong>Mô tả :</strong> Vốn KD, thuộc SH cổ đông, quỹ trích từ LN sau thuế chưa phân phối, CL tỷ giá, CL đánh giá TS</p>
+   </ul>
+   </details> 
+    <summary>MS 411 –Tổng số vốn đã thực góp của chủ sở hữu DN, tại thời điểm báo cáo</summary>
+    <p><strong>Công thức:</strong>MS 411 = 411a + 411b</p>
+    <p><strong>Mô tả:</strong>Số vốn được cấp (TH ĐV hạch toán phụ thuộc) vào TK 4111, số dư có</p>
+   </ul>
+   </details>
+    <summary> 411a - Cổ phiêu ưu đãi phổ thông</summary> 
+    </ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2014111">TK 4111 – CP phổ thông, có quyền biểu quyết</a></li>
+    <summary> 411b - Cổ phiêu ưu đãi phổ thông bao gồm 4111</summary>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2014112">TK 4112 – Thặng dư vốn CP</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2014113">TK 4113 – Quyền chọn chuyển đổi Trái phiếu</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2014118">TK 4118 – Quyền chọn chuyển đổi Trái phiếu</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201419">TK 419 – Cổ phiếu quỹ</a></li>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%2014118">TK 412 – CL đánh giá TS</a></li>
+    <p><strong>CL đánh giá TS<strong>phản ánh số chênh lệch, đánh giá ts được ghi nhận vào vốn chủ sở hữu, tại thời điểm báo cáo, số dư có Tk 412. TH là số dư nợ thì chỉ tiêu ghi bằng số âm</p>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201413">TK 413 – CL đánh giá tỷ giá hối đoái</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201414">TK 414 – Quỹ đầu tư phát triển</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201417">TK 417 – Quỹ hỗ trợ DN</a></li>
+     <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201418">TK 418 – Quỹ khác</a></li>
+    </ul>
+    </details>
+<summary>LN sau thuế chưa phân phối</ summary>
+<p><strong>mô tả : <strong> số lãi/lỗ của thuế chưa được QT, chưa phân phối tại thời điểm báo cáo, là số dư có Tk 421 - LN sau thuế chưa phân phối. Trong BCĐKT, TK 4211 và 4212 là số dư bên có, TH phản ánh số dư bên nợ ghi là () số âm, áp dụng chưa pp năm nay, năm ngoái và hiện thời</p>
+ <p><strong>công thức<strong> MS 421 = 421a + 421b<p>
+ </ul>
+ <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%204211">TK 4211 – LN Sau thuế chưa phân phối năm nay</a></li>
+  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%204212">TK 4212 – LNST chưa PP năm trước</a></li>
+  </ul>
+  </details>
+  <summary>MS 422 : Nguồn vốn xd cơ bản</summary>
+  <p><strong>Mô tả :<strong>tổng số vốn dầu tư XDCB tại thời điểm báo cáo, là số dư có, tk 441 : Nguồn vốn Đầu tư XD cơ bản</p>
+  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20411">TK 441 – Nguồn vốn Đầu tư XD cơ bản</a></li>
+  </ul>
+  </details>
+  <Summary>MS 430 - Nguồn kinh phí và quỹ khác<summary>
+  <p><strong>Mô tả : <strong>Tổng số kinh phí sự nghiệp, dự án cấp cho hđ sự nghiệp hình thành tscđ, trừ đi khoản chi dự án, tại thời điểm báo cáo</p>
+  <p><strong>công thức<strong>MS 430 = MS 431 + MS 432</p>
+  </ul>
+  </details>
+  <summary> MS 431 : Nguồn kinh phí </summary>
+  <p><strong>Mô tả : <strong> nguồn kinh phí đã được cấp, sử dụng hết, số chi sự nghiệp. CL giữa số dư có Tk 461 "Nguồn Kinh phí sự nghiệp, và số dư nợ Tk 161 "CP sự nghiệp". TH số dư nợ TK 161 lớn hơn Số dư có TK 461 thì biểu thị là số âm ()</p>
+  <ul>
+  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20461">TK 461</a></li>
+  <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%20161">TK 161</a></li>
+  </ul>
+  </details>
+  <summary>MS 432 : Nguồn kinh phí đã hình thành TSCĐ</summary>
+  </ul>
+  </details>
+<p><strong>Mô tả :<strong> Phản ánh tổng số kinh phí, hình thành TSCĐ, tại thời điểm báo cáo, ghi nhận là số dư có TK 466 - Nguồn kinh phí hình thành TSCĐ</p>
+<ul>
+    <li><a href="obsidian://open?vault=acounting%20notes&file=other%20notes%2FTK%201111">TK 466 – Nguồn kinh phí đã hình thành TSCĐ</a></li>
+    </ul> 
+  <details>
+    <summary>🟩 MS440 – Tổng cộng nguồn vốn</summary> 
+    <p><strong>Mô tả :<strong> Phản ánh tổng số nguồn vốn hình thành TS DN, tại thời điểm báo cáo</p>
+    <section id="practice">
+    <h2>🧠 Practice & Simulation</h2>
+    <p>Match accounts to quadrants, fill journal entries, and simulate flows.</p>
+    <!-- Placeholder for interactive elements -->
+  </section>
+  <section id="mindmap">
+    <h2>🗂 Thuyết Minh Báo Cáo</h2>
+    <p>Clickable mindmap nodes linking to disclosures and account logic.</p>
+    <!-- Placeholder for embedded mindmap or links -->
+  </section>
+  <footer>
+    <p>Made with ❤️ by Uyên & Copilot</p>
+  </footer>
+</body>
+</html>
+
