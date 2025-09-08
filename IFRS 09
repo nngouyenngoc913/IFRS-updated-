@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Phân loại Tài sản Tài chính</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    .diagram {
+      background-color: #f9f9f9;
+      border-left: 4px solid #3498db;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    .note {
+      background-color: #fffbe6;
+      border-left: 4px solid #f1c40f;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="IFRS-09">
+    <h1>📘 Phân loại công cụ tài chính, công cụ vốn</h1>
+    <p>Điều kiện phân loại</p>
+  </div>
+
+  <div class="Ghi-nhan">
+    <h2>🗂️ Công cụ tài chính</h2>
+    <p><strong>Định nghĩa:</strong> Công cụ vốn là mối quan hệ giữa người cung cấp vốn và người có nhu cầu vay vốn.</p>
+    <em>Ví dụ: tiền, trái phiếu, kỳ phiếu...</em>
+    <p>Công cụ tài chính là các khoản dùng để nắm giữ đến đáo hạn, có lãi suất để thu mua, và không gắn với tài sản → không có khấu hao, suy giảm giá trị...</p>
+    <em>Ví dụ: tiền, trái phiếu chuyển đổi, hợp đồng chọn</em>
+  </div>
+
+  <div>
+    <h2>Các khái niệm cần nắm</h2>
+    <ul>
+      <li><strong>FTVL (giá trị dòng tiền):</strong> Cách đo lường giá trị thực tế (market value), dùng để mua bán, có dòng tiền cho principal và lãi suất.</li>
+      <li><strong>Amortised:</strong> Ghi nhận lãi/lỗ sau khi đánh giá, khi thoả mãn điều kiện dòng tiền cho lãi suất và principal.</li>
+      <li><strong>OCI (without recycle):</strong> Không thoả mãn điều kiện của hai nhóm trên.</li>
+    </ul>
+  </div>
+
+  <div class="diagram">
+    <h2>TÀI SẢN TÀI CHÍNH</h2>
+
+    <h3>1. Tài sản tài chính được xác định ghi nhận theo giá trị hợp lý qua lãi/lỗ</h3>
+    <ul>
+      <li>Các công cụ vốn không xác định được giá trị hợp lý.</li>
+      <li>Các công cụ vốn được xác định ghi nhận theo giá trị hợp lý qua lãi/lỗ.</li>
+      <li>Các công cụ nợ được xác định ghi nhận theo giá trị hợp lý qua lãi/lỗ.</li>
+    </ul>
+
+    <h3>2. Các loại tài sản tài chính khác</h3>
+    <ul>
+      <li>Các công cụ nợ được xác định ghi nhận theo giá trị hợp lý qua lãi/lỗ.</li>
+      <li>Các công cụ nợ được xác định ghi nhận theo giá trị hợp lý thông qua thu nhập toàn diện khác.</li>
+      <li>Các công cụ nợ được xác định ghi nhận theo giá trị hợp lý thông qua chi phí khấu hao.</li>
+      <li>Các công cụ vốn được xác định ghi nhận theo giá trị hợp lý thông qua thu nhập toàn diện khác.</li>
+    </ul>
+  </div>
+
+  <div class="note">
+    <h3>Ghi chú:</h3>
+    <p>Phân loại TSTC quy định tại phần phân loại tài sản TSTC khi thay đổi mô hình kinh doanh.</p>
+    <p>Phân loại theo IFRS 9:</p>
+    <ul>
+      <li>TSTC được đo lường theo giá trị hợp lý hoặc giá trị phân bổ.</li>
+      <li>Việc phân loại TSTC dựa trên đặc điểm dòng tiền và mô hình kinh doanh.</li>
+      <li>Việc phân loại TSTC còn phụ thuộc vào sự lựa chọn của đơn vị đối với công cụ vốn không xác định được giá trị TSTC.</li>
+    </ul>
+  </div>
+
+</body>
+</html>
