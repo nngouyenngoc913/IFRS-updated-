@@ -1,0 +1,123 @@
+<div class="details" id="investment">
+    <h2>🏢 IAS 40 vs VAS 05 — Bất động sản đầu tư</h2>
+    <div class="details" id="ias40">
+    <h2>🏢 IAS 40 — Bất động sản đầu tư (Investment Property)</h2>
+
+     <h3>🎯 Mục tiêu</h3>
+     <p>Chuẩn mực này quy định phương pháp kế toán cho bất động sản đầu tư, bao gồm ghi nhận, đo lường và công bố thông tin liên quan.</p>
+
+     <h3>📌 Phạm vi điều chỉnh</h3>
+     <p>IAS 40 áp dụng cho bất động sản đầu tư, nhưng không áp dụng với:</p>
+    <ul>
+        <li>a) Tài sản sinh học (biological assets)</li>
+        <li>b) Quyền khai thác khoáng sản và dự trữ khoáng sản</li>
+  </ul>
+
+    <h3>📚 Khái niệm thuật ngữ</h3>
+    <p><strong>Bất động sản đầu tư (Investment Property):</strong> Là tài sản cố định (đất. hoặc nhà cửa – hoặc một phần của nhà cửa – hoặc cả hai) được nắm giữ bởi chủ sở hữu. hoặc bên thuê tài chính, nhằm mục đích:</p>
+    <ul>
+        <li>Thu lợi từ việc cho thuê</li>
+        <li>Chờ tăng giá trị</li>
+        <li>Hoặc cả hai</li>
+ 
+      <ul>
+      <h3>TH phân loại khác</h3>
+      <div class="TS nắm giữ theo HĐ thuê HĐ"> Ts nắm giữ theo HĐ thuê</div>
+        <li> Bất động sản đầu tư được nắm giữ để thu nhập từ cho thuê hoặc gia tăng vốn</li>.
+        <li>Dòng tiền từ BĐS đầu tư không phụ thuộc vào các tài sản khác của đơn vị</li>.
+        <li> Khác với bất động sản chủ sở hữu sử dụng, vốn tạo ra dòng tiền cùng với các tài sản sản xuất kinh doanh khác</li>.
+       <ul> 
+        <div class="Bất động sản sử dụng một phần">BĐS sử dụng 1 phần</div>
+        <li> bán/cho thuê độc lập → ghi nhận từng phần riêng biệt</li>.
+        <li>Dòng tiền từ BĐS đầu tư không phụ thuộc vào các tài sản khác của đơn vị</li>.
+        <li> Khác với bất động sản chủ sở hữu sử dụng, vốn tạo ra dòng tiền cùng với các tài sản sản xuất kinh doanh khác</li>.
+    <ul> 
+        <div class="DV phụ trợ">DV phụ trợ </div>
+        <li> DV đi kèm với giá trị không lớn như bảo trì, an ninh,....</li>
+       <ul> 
+        <div class="Cho thuê nội bộ">Cho thuê nội bộ</div>
+        <li>Báo cáo tài chính hợp nhất </li>
+        <li>BĐS được công ty con sở hữu nhưng công ty mẹ sử dụng không được coi là BĐS đầu tư</li>
+        <li>Báo cáo tài chính riêng</li>
+        <li>Bên cho thuê có thể coi tài sản là BĐS đầu tư nếu đáp ứng định nghĩa của IAS 40</li> 
+        
+  </ul>
+
+    <p><strong>ĐK ghi nhận</strong> .</p>
+    </ul>
+    </div>
+    <ul>
+    </p>Ghi nhận ban đầu: </strong> Giá mua + chi phí giao dịch + pháp lý + cải tạo ban đầu.
+      <li><em>Đo lường sau ghi nhận:</em>
+        <ul>
+          <li><strong>Cost model:</strong> Nguyên giá trừ khấu hao và tổn thất.</li>
+          <li><strong>Fair value model:</strong> Đánh giá lại theo giá trị hợp lý, thay đổi ghi vào lãi/lỗ.</li>
+        </ul>
+       
+    
+    <h3>📘 4.1 Ghi nhận ban đầu</h3>
+    <p><strong>BĐS đầu tư hình thành từ giao dịch mua:</strong></p>
+  <ul>
+        <li>Nguyên giá = Giá mua + Thuế không hoàn lại – Chiết khấu thương mại</li>
+        <li>Chi phí liên quan trực tiếp: chi phí pháp lý, thuế chuyển giao BĐS, phí môi giới</li>
+        <li><strong>Không tính vào nguyên giá:</strong>
+      <ul>
+        <li>Chi phí khởi nghiệp</li>
+        <li>Lỗ từ hoạt động SXKD trước khi BĐS đạt mức độ sử dụng theo kế hoạch</li>
+        <li>Chi phí NVL, nhân công vượt định mức khi thi công hoặc phát triển BĐS</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>BĐS đầu tư mua trả chậm:</strong></p>
+  <ul>
+    <li>Nguyên giá = Giá mua trả ngay</li>
+    <li>Phần chênh lệch giữa giá mua trả ngay và tổng thanh toán → ghi nhận là chi phí lãi → báo cáo lãi/lỗ (P/L)</li>
+  </ul>
+
+  <p><strong>BĐS đầu tư mua theo hình thức trao đổi:</strong></p>
+  <ul>
+    <li>Nguyên giá = Giá trị hợp lý (GTHL) của tài sản nhận được</li>
+    <li>Trừ khi:
+      <ul>
+        <li>Giao dịch không có tính chất thương mại</li>
+        <li>GTHL không thể xác định đáng tin cậy → ghi nhận theo giá trị còn lại của tài sản trao đi</li>
+      </ul>
+    </li>
+  </ul>
+
+  <h3>📐 4.2 Đo lường sau ghi nhận ban đầu</h3>
+  <p><strong>Mô hình giá gốc (Cost Model):</strong></p>
+  <ul>
+    <li>Áp dụng IFRS 5 nếu tài sản được phân loại là nắm giữ để bán</li>
+    <li>Áp dụng IFRS 16 nếu tài sản được nắm giữ bởi bên thuê dưới dạng quyền sử dụng</li>
+    <li>Áp dụng IAS 16 nếu ghi nhận theo mô hình giá gốc thông thường</li>
+  </ul>
+
+  <p><strong>Mô hình giá trị hợp lý (Fair Value Model):</strong></p>
+  <ul>
+    <li>Định giá BĐS đầu tư theo giá hợp lý tại ngày lập báo cáo</li>
+    <li>Chênh lệch giá trị hợp lý được ghi nhận trực tiếp vào báo cáo lãi/lỗ (P/L)</li>
+  </ul>
+
+    <h3>🛑 6. Dừng ghi nhận BĐS đầu tư</h3>
+  <ul>
+        <li>Dừng ghi nhận khi:
+      <ul>
+        <li>Tài sản được thanh lý</li>
+        <li>Không còn mang lại lợi ích kinh tế trong tương lai</li>
+      </ul>
+    </li>
+    <li>Lãi/lỗ từ thanh lý BĐS đầu tư được ghi nhận vào báo cáo lãi/lỗ (P/L)</li>
+  </ul>
+</div>
+      <li><em>Khấu hao:</em> Chỉ áp dụng nếu dùng mô hình giá gốc.</li>
+<ul>
+      <p><strong>VAS:</strong></p>
+      <ul>
+        <li>Chỉ sử dụng mô hình giá gốc.</li>
+        <li>Không đánh giá lại theo giá trị hợp lý.</li>
+        <li>Ghi nhận theo TK 217.</li>
+    </ul>
+    <p><strong>Mapping:</strong> TK 217 → MS228</p>
+  </div>
