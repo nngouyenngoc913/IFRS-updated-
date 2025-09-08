@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>IFRS vs VAS — Tổng hợp Chuẩn mực Kế toán</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f9f9f9;
+      color: #2c3e50;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #34495e;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .standard {
+      color: #7f8c8d;
+      font-size: 0.9em;
+    }
+    .mapping-table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+    .mapping-table th, .mapping-table td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    .mapping-table th {
+      background-color: #ecf0f1;
+    }
+  </style>
+</head>
+<body>
+<div class="details" id="ppe">
+    <h2>🏗️ IAS 16 vs VAS 03 — Tài sản cố định hữu hình</h2>
+    <p><strong>IFRS:</strong></p>
+    <ul>
+      <li><em>Ghi nhận ban đầu:</em> Giá mua + chi phí trực tiếp (vận chuyển, lắp đặt, chuyên gia) + chi phí tháo dỡ nếu có.</li>
+      <li><em>Đo lường sau ghi nhận:</em> 
+        <ul>
+        <li><strong>Cost model:</strong> Nguyên giá trừ khấu hao và tổn thất.</li>
+        <li><strong>Revaluation model:</strong> Đánh giá lại theo giá trị hợp lý, chênh lệch ghi vào OCI.</li>
+        </ul>
+        <div class="details" id="definitions">
+    <h2>📚 Từ điển IFRS — Các thuật ngữ đo lường tài sản</h2>
+    <ul>
+        <li><strong>Nguyên giá (Cost):</strong> Số tiền hoặc giá trị hợp lý của các khoản thanh toán để có được tài sản tại thời điểm mua hoặc xây dựng, hoặc giá trị tính cho tài sản khi ghi nhận ban đầu.</li>
+    <h3>📌 Thành phần được tính vào nguyên giá</h3>
+    <ul>
+        <li><strong>Giá mua:</strong> Giá thanh toán cho nhà cung cấp sau khi trừ chiết khấu thương mại.</li>
+        <li><strong>Thuế nhập khẩu & thuế không hoàn lại:</strong> Bao gồm các loại thuế không được khấu trừ.</li>
+        <li><strong>Chi phí liên quan trực tiếp:</strong>
+        <ul>
+        <li>Chi phí phúc lợi cho người lao động liên quan đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng.</li>
+        <li>Chi phí chuyên môn phát sinh trực tiếp (ví dụ: phí tư vấn, kỹ thuật).</li>
+        <li>Chi phí thử nghiệm, chạy thử trước khi đưa vào sử dụng chính thức.</li>
+      </ul>
+    </li>
+  </ul>
+
+  <p><strong>📎 Ví dụ:</strong> Mua phần mềm kế toán từ nhà cung cấp CK, được giảm giá 10%. Các chi phí triển khai, đào tạo nhân viên sử dụng phần mềm được tính vào nguyên giá.</p>
+
+  <h3>🚫 Chi phí không được tính vào nguyên giá</h3>
+  <ul>
+    <li>Chi phí giới thiệu sản phẩm hoặc dịch vụ mới.</li>
+    <li>Chi phí tiến hành hoạt động kinh doanh tại địa điểm mới hoặc với lớp khách hàng mới.</li>
+    <li>Chi phí quản lý hành chính, marketing, hoặc chi phí chung không liên quan trực tiếp đến việc đưa tài sản vào sử dụng.</li>
+  </ul>
+
+  <p><strong>📘 Ghi chú:</strong> Các chi phí chỉ được ghi nhận vào nguyên giá nếu chúng trực tiếp liên quan đến việc đưa tài sản vào trạng thái sẵn sàng sử dụng theo mục đích của đơn vị.</p>
+</div>
+
+        <li><strong>Giá trị còn lại (Carrying Amount):</strong> Giá trị ghi sổ của tài sản sau khi trừ đi khấu hao lũy kế và các khoản lỗ do suy giảm giá trị.</li>
+        <li><strong>Giá trị khấu hao (Depreciable Amount):</strong> Nguyên giá hoặc giá trị. thay thế trừ đi giá trị thanh lý có thể thu hồi.</li>
+        <li><strong>Khấu hao (Depreciation):</strong> Việc phân bổ có hệ thống giá trị khấu hao của tài sản trong suốt thời gian sử dụng hữu ích.</li>
+        <li><strong>Giá trị đặc thù đơn vị (Entity-Specific Value):</strong> Giá trị hiện tại của. dòng tiền mà đơn vị dự kiến thu được từ việc sử dụng và thanh lý tài sản.</li>
+        <li><strong>Giá trị hợp lý (Fair Value):</strong> Giá có thể nhận được khi bán tài sản hoặc giá phải trả để chuyển nhượng nợ trong giao dịch có tổ chức giữa các bên tham gia thị trường tại ngày xác định (tham khảo IFRS 13).</li>
+        <li><strong>Tổn thất do suy giảm giá trị (Impairment Loss):</strong> Phần chênh lệch. khi giá trị còn lại của tài sản lớn hơn giá trị có thể thu hồi.</li>
+        <li><strong>Giá trị có thể thu hồi (Recoverable Amount):</strong> Giá trị cao hơn giữa:
+      <ul>
+        <li>Giá trị hợp lý trừ chi phí bán</li>
+        <li>Giá trị sử dụng (Value in Use)</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+      </li>
+      <li><em>Khấu hao:</em> Theo từng bộ phận nếu có thời gian sử dụng khác nhau. Không khấu hao đất.</li>
+      <li><em>Thanh lý:</em> Ghi nhận lãi/lỗ khi giá bán khác với giá trị còn lại.</li>
+      </ul>
+      <p><strong>VAS:</strong></p>
+     <ul>
+      <li>Chỉ sử dụng mô hình giá gốc.</li>
+      <li>Khấu hao theo phương pháp đường thẳng hoặc số dư giảm dần.</li>
+      <li>Không đánh giá lại tài sản.</li>
+      </ul>
+    <p><strong>Mapping:</strong> TK 211 → MS221</p>
+  </div>
