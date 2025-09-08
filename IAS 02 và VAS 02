@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>IFRS vs VAS — Tổng hợp Chuẩn mực Kế toán</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background-color: #f9f9f9;
+      color: #2c3e50;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    h1, h2, h3 {
+      color: #34495e;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .standard {
+      color: #7f8c8d;
+      font-size: 0.9em;
+    }
+    .mapping-table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+    .mapping-table th, .mapping-table td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    .mapping-table th {
+      background-color: #ecf0f1;
+    }
+  </style>
+</head>
+<body>
+<div class="section">
+    <h2>📋 Giải thích Chuẩn mực</h2>
+    <h3>IAS 2 vs VAS 02 — Hàng tồn kho</h3>
+    <ul>
+      <li>không áp dụng cho IAS 32 , IFRS 09, IAS 41 </li>
+        <div class="details" id="ias2">
+     <h2>📦 IAS 2 vs VAS 02 — Hàng tồn kho</h2>
+     <p><strong>IFRS:</strong> Đo lường theo giá gốc và NRV (Net Realizable Value), sử dụng  phương pháp FIFO hoặc bình quân gia quyền. Không cho phép LIFO.</p>
+     <p><strong>VAS:</strong> Cho phép định danh, FIFO, bình quân. Có thể hoàn nhập dự phòng nếu không còn lý do trích lập.</p>
+     <p><strong>Mapping:</strong> TK 151/152/153 → MS140</p>
+     <p><strong>🔗 Thông tư:</strong> <a href="https://thuvienphapluat.vn/van-ban/Tai-chinh/Thong-tu-200-2014-TT-BTC-che-do-ke-toan-doanh-nghiep-261468.aspx" class="link" target="_blank">TT 200/2014/TT-BTC</a></p>
+    <h3>📐 Các khái niệm đo lường liên quan</h3>
+    <ul>
+      <li><strong>Giá trị có thể thu hồi (Recoverable Amount):</strong>  
+        <em>Nguyên gốc tiếng Anh:</em> “Recoverable amount is the higher of an asset’s fair value less costs of disposal and its value in use.”  
+        <br> Là giá trị cao hơn giữa:
+        <ul>
+          <li>Giá trị hợp lý trừ chi phí bán</li>
+          <li>Giá trị sử dụng (Value in Use)</li>
+        </ul>
+
+      <li><strong>Giá trị thanh lý ước tính (Residual Value):</strong>  
+        <br>Là giá trị ước tính thu được từ việc thanh lý tài sản sau khi trừ chi phí thanh lý, nếu tài sản đã hết thời gian sử dụng hữu ích.  
+        <em>Ví dụ:</em> Một thiết bị có nguyên giá 5 tỷ đồng, đã khấu hao hết. Giá trị thanh lý dự kiến sau trừ chi phí thanh lý là <strong>500 triệu đồng</strong>.
+      </li>
+
+      <li><strong>Giá trị sử dụng (Value in Use):</strong>  
+        Là giá trị hiện tại của các dòng tiền dự kiến trong tương lai sẽ phát sinh từ việc tiếp tục sử dụng và thanh lý tài sản tại thời điểm kết thúc thời gian sử dụng hữu ích.  
+        <em>Tham khảo định nghĩa trong IFRS 5.</em>
+      </li>
+    </ul>
+  </div>
+
+      <li>IAS 2: đo lường theo giá gốc, NRV, Cấm dùng LIFO.</li>
+      <li>LIFO: Các mặt hàng có đặc tính giống nhau, hoặc là có khả năng được customize.</li>
+      <li>Ghi nhận giá trị ban đầu : DR : inventory purchase cost, CR : cash/trade payables</li>
+      <li>Hoàn nhập dự phòng : allowance for doubtful inventory : DR : write off, CR : allowance for inventory, DR : Recoverable expense (ghi nhận vào giá gốc) (TH : unrecognized)</li> 
+      <li>VAS 02: cho phép FIFO, bình quân gia quyền, định danh. Có thể hoàn nhập dự phòng đối trước khi ghi nhận.</li>
+      <li> Đánh giá: mô hình giá gốc </li> 
+      <li> purchase price = chi phí mua hàng (Đánh giá: mô hình giá gốc : Giá mua (Thuế nhập khẩu và các khoản thuế không hoàn lại, Chi phí vận chuyển giao nhận, Chi phí khác liên quan đến mua thành phẩm, NVL, dịch vụ, Chiết khấu thương mại)</li>
+      <li> Chi phí chế biến HTK : Chi phí nguyên vật liệu trực tiếp, Chi phí nhân công trực tiếp, Chi phí sản xuất chung (phân bổ theo công suất bình thường của máy móc, thiết bị; chi phí không được phân bổ sẽ ghi nhận thành chi phí trong kỳ phát sinh)</li>
+      <li>Chi phí khác : Chi phí phát sinh liên quan trực tiếp để HTK ở địa điểm, trạng thái hiện tại</li>
+      <li> Không áp dụng : Giá trị hao hụt bất thường của CP NVL, NC và CP SXC, Chi phí lưu kho (trừ chi phí lưu kho cho giai đoạn SX tiếp theo), CP quản lý doanh nghiệp, CP bán hàng</li>
+      <li>Cách đo lường : retail áp dụng trong ngành bán lẻ, nơi có nhiều mặt hàng thay đổi nhanh chóng và tính theo tỉ lệ % dựa trên mức giảm giá thông thường của hàng tồn kho</li>
+      <li>PP thực tế đích danh : sử dụng cho sp dv riêng lẻ, PP FIFO (phù hợp với hàng hóa dễ hư hỏng hoặc có xu hướng tăng giá</li>
+      </ul>PP bình quân gia quyền : tính toán lại giá hàng tồn kho mỗi lần xuất bán </li>
